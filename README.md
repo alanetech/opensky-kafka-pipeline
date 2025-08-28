@@ -55,7 +55,7 @@ opensky-kafka-pipeline/
 
 1. Cloner le repository :
 ```bash
-git clone https://github.com/<ton-repo>/opensky-kafka-pipeline.git
+git clone https://github.com/alanetech/opensky-kafka-pipeline.git
 cd opensky-kafka-pipeline
 ```
 2. Installer les dépendances :
